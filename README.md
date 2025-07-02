@@ -1,9 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=salud!🤗&fontColor=4E5068&textBg=false&fontSize=70&section=header&reversal=false
 )
 
-### Introduction 
-저는 문제를 구조적으로 해결하고, 협업에 필요한 문서화와 기록을 꼼꼼히 하는 백엔드 개발자입니다.
-
+### A Backend Developer From South Korea 
+✔️ 문제를 데이터 기반으로 정의하고, 구조적인 코드로 해결해 나가고자 합니다.  
+✔️ 서비스의 안정성과 성능을 최우선으로 고려하며, 확장성 있는 지속 가능한 코드를 꾸준히 고민합니다.  
+✔️ 팀원과의 원활한 협업을 위해 소통과 문서화를 중요하게 생각하며, 함께 성장하고자 합니다.  
 
 
 ### Stacks
