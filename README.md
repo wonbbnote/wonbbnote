@@ -10,7 +10,8 @@ A Backend Developer From South Korea
 
 **Tech Stacks**  
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,py,django,flask,fastapi,mysql,redis,aws,nginx,docker,kubernetes,kafka,githubactions,jenkins,grafana,prometheus,github&theme=light)](https://skillicons.dev)
+<!-- [![My Skills](https://skillicons.dev/icons?i=java,spring,py,django,flask,fastapi,mysql,redis,aws,nginx,docker,kubernetes,kafka,githubactions,jenkins,grafana,prometheus,github&theme=light)](https://skillicons.dev) -->
+[![My Skills](https://skillicons.dev/icons?i=java,spring,py,django,flask,fastapi,mysql,aws,nginx,docker,githubactions,grafana,prometheus,github,notion&theme=light)](https://skillicons.dev)
 
 
 **Work Experience**
@@ -18,10 +19,10 @@ A Backend Developer From South Korea
 - 니어브레인 | 인턴, BE 개발 (2022.09 - 2023.06)
 
 **Activity**
-- 2025 산업통상자원부 공공데이터활용 아이디어 공모전 제품/서비스 개발 예정(2025.07 - 2025.09)
-- 2025 오픈소스 개발자 대회 진행중 (2025.06 - 2025.08)
-- AWS Certification 취득 예정 (2025.08)
-- PCCP Certification Lv3. 취득 (2025.07)
+<!-- - 2025 산업통상자원부 공공데이터활용 아이디어 공모전 제품/서비스 개발 예정(2025.07 - 2025.09) -->
+<!-- - 2025 오픈소스 개발자 대회 진행중 (2025.06 - 2025.08) -->
+<!-- - AWS Certification 취득 예정 (2025.08) -->
+<!-- - PCCP Certification Lv3. 취득 (2025.07) -->
 - 정보처리기사 취득 (2024.06)
 - 항해 플러스 1기 | BE 및 오픈소스 개발 (2023.06 - 2023.08)
 - 2023 한국외국어대학교 AI/SW 창업프로젝트 | BE 개발 (2023.03 - 2023.05)
