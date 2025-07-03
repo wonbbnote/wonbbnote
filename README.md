@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=안녕하세요salud!🤗&fontColor=4E5068&textBg=false&fontSize=70&section=header&reversal=false
+![header](https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Goodtoseeyou🤗&fontColor=4E5068&textBg=false&fontSize=70&section=header&reversal=false
 )
 
 A Backend Developer From South Korea 
@@ -10,10 +10,6 @@ A Backend Developer From South Korea
 
 **Tech Stacks**  
 
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"> 
-<img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=aws&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-
 [![My Skills](https://skillicons.dev/icons?i=java,spring,py,django,flask,fastapi,mysql,redis,aws,nginx,docker,kubernetes,kafka,githubactions,jenkins,grafana,prometheus,github&theme=light)](https://skillicons.dev)
 
 
@@ -22,9 +18,9 @@ A Backend Developer From South Korea
 - 니어브레인 | 인턴, BE 개발 (2022.09 - 2023.06)
 
 **Activity**
-- 2025 산업통상자원부 공공데이터활용 아이디어 공모전 제품/서비스 개발 (2025.07 - 2025.09)
-- 2025 오픈소스 개발자 대회 (2025.06 - 2025.08)
-- AWS Certification 취득 (2025.08)
+- 2025 산업통상자원부 공공데이터활용 아이디어 공모전 제품/서비스 개발 예정(2025.07 - 2025.09)
+- 2025 오픈소스 개발자 대회 진행중 (2025.06 - 2025.08)
+- AWS Certification 취득 예정 (2025.08)
 - PCCP Certification Lv3. 취득 (2025.07)
 - 정보처리기사 취득 (2024.06)
 - 항해 플러스 1기 | BE 및 오픈소스 개발 (2023.06 - 2023.08)
@@ -37,6 +33,4 @@ A Backend Developer From South Korea
 - 2021 제17회 KMAC 경영혁신 연구논문 및 사례 연구 대학(원)생 | 우수상 (2021.12)
 
 **Education**  
-한국외국어대학교, 서울 (2019.03 - 2024.02)
-- 국제통상학사 | Language&Trade전공
-- 공학사 | AI융합전공(Software&AI)
+- 한국외국어대학교, 서울 | 국제통상학사(Language&Trade전공) & 공학사(AI융합전공(Software&AI)) (2019.03 - 2024.02) 
