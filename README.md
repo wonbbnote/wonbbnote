@@ -8,7 +8,7 @@ A Backend Developer From South Korea
 ✔️ 팀원과의 원활한 협업을 위해 소통과 문서화를 중요하게 생각하며, 함께 성장하고자 합니다.  
 
 
-**Tech Stacks**  
+**Skill**  
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=java,spring,py,django,flask,fastapi,mysql,redis,aws,nginx,docker,kubernetes,kafka,githubactions,jenkins,grafana,prometheus,github&theme=light)](https://skillicons.dev) -->
 [![My Skills](https://skillicons.dev/icons?i=java,spring,py,django,flask,fastapi,mysql,aws,nginx,docker,githubactions,grafana,prometheus,github,notion&theme=light)](https://skillicons.dev)
