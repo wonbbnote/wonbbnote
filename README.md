@@ -43,6 +43,13 @@
 
 **Stats**  
 
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wobb3313)](https://solved.ac/wobb3313/)
 &nbsp; 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/wonbbnote?pet-id=728906119543292382" width="80" height="150"/>
+</a>
+
 <!-- ![mazandi profile](http://mazandi.herokuapp.com/api?handle=wobb3313&theme=warm) -->
+
+
