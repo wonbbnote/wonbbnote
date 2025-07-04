@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&height=200&color=gradient&text=Welcome🤗&textBg=false&fontSize=70&section=header&reversal=false
 )
 
-A Backend Developer from South Korea 
+**A Backend Developer from South Korea**  
 
 ✔️ 문제를 데이터 기반으로 정의하고, 구조적인 코드로 해결해 나가고자 합니다.  
 ✔️ 서비스의 안정성과 성능을 최우선으로 고려하며, 확장성 있는 지속 가능한 코드를 꾸준히 고민합니다.  
