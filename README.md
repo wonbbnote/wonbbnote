@@ -34,4 +34,11 @@ A Backend Developer From South Korea
 - 2021 제17회 KMAC 경영혁신 연구논문 및 사례 연구 대학(원)생 | 우수상 (2021.12)
 
 **Education**  
-- 한국외국어대학교, 서울 | 국제통상학사(Language&Trade전공) & 공학사(AI융합전공(Software&AI)) (2019.03 - 2024.02) 
+- 한국외국어대학교, 서울 | 국제통상학사(Language&Trade전공) & 공학사(AI융합전공(Software&AI)) (2019.03 - 2024.02)
+
+**Open Source**  
+
+
+**Stats**  
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wobb3313)](https://solved.ac/wobb3313/)
