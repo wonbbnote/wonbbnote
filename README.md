@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Goodtoseeyou🤗&fontColor=4E5068&textBg=false&fontSize=70&section=header&reversal=false
+![header](https://capsule-render.vercel.app/api?type=rounded&height=200&color=gradient&text=Welcome🤗&textBg=false&fontSize=70&section=header&reversal=false
 )
 
 A Backend Developer From South Korea 
@@ -36,7 +36,7 @@ A Backend Developer From South Korea
 **Education**  
 - 한국외국어대학교, 서울 | 국제통상학사(Language&Trade전공) & 공학사(AI융합전공(Software&AI)) (2019.03 - 2024.02)
 
-**Open Source**  
+<!-- **Open Source**  -->
 
 
 **Stats**  
