@@ -45,4 +45,4 @@ A Backend Developer From South Korea
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wobb3313)](https://solved.ac/wobb3313/)
 &nbsp; 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=wobb3313&theme=warm)
+<!-- ![mazandi profile](http://mazandi.herokuapp.com/api?handle=wobb3313&theme=warm) -->
