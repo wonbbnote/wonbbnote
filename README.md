@@ -35,18 +35,18 @@
 
 **Education**  
 - 한국외국어대학교, 서울 | 국제통상학사(Language&Trade전공) & 공학사(AI융합전공(Software&AI)) (2019.03 - 2024.02)
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/wonbbnote?pet-id=728906119543292382" width="50" height="80"/>
-</a>
 
 <!-- **Open Source**  -->
 
 <!-- **Blog Posts**  -->
 
 
-<!-- **Stats**  -->
-<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wobb3313)](https://solved.ac/wobb3313/) -->
+**Stats**  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wobb3313)](https://solved.ac/wobb3313/)
 &nbsp; 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/wonbbnote?pet-id=728906119543292382" width="50" height="80"/>
+</a>
 <!-- ![](https://leetcard.jacoblin.cool/wonbb3313?width=500&height=178&ext=null) -->
 
 
