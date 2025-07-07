@@ -3,6 +3,9 @@
 
 **A Backend Developer from South Korea**  
 
+<!-- [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=wonHA&theme=dark)](https://github.com/loosie/github-readme-tistory-card) -->
+
+
 ✔️ 문제를 데이터 기반으로 정의하고, 구조적인 코드로 해결해 나가고자 합니다.  
 ✔️ 서비스의 안정성과 성능을 최우선으로 고려하며, 확장성 있는 지속 가능한 코드를 꾸준히 고민합니다.   
 ✔️ 원활한 협업을 위해 소통과 문서화를 중요하게 생각하며, 함께 성장하고자 합니다.  
@@ -42,11 +45,8 @@
 
 
 **Stats**  
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=10 align="center" src="https://github-readme-stats.vercel.app/api?username=wonbbnote" />
-</a> -->
-&nbsp; 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wobb3313)](https://solved.ac/wobb3313/)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wonbbnote&show_icons=true&hide_border=true)
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/wonbbnote?pet-id=728906119543292389" width="50" height="80"/>
 </a>
