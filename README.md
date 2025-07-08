@@ -14,7 +14,7 @@
 **Skill**  
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=java,spring,py,django,flask,fastapi,mysql,redis,aws,nginx,docker,kubernetes,kafka,githubactions,jenkins,grafana,prometheus,github&theme=light)](https://skillicons.dev) -->
-[![My Skills](https://skillicons.dev/icons?i=java,spring,py,django,flask,fastapi,mysql,aws,nginx,docker,githubactions,grafana,prometheus,github,notion&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,py,django,flask,fastapi,mysql,aws,docker,githubactions,github,notion&theme=light)](https://skillicons.dev)
 
 
 **Work Experience**
