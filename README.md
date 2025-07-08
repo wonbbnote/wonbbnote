@@ -45,9 +45,8 @@
 
 
 **Stats**  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wonbbnote&show_icons=true&hide_border=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wobb3313)](https://solved.ac/wobb3313/)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wonbbnote&show_icons=true&hide_border=true)
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/wonbbnote?pet-id=728906119543292389" width="45" height="80"/>
 </a>
