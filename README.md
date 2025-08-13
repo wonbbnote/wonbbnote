@@ -17,7 +17,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring,py,django,flask,fastapi,mysql,aws,docker,githubactions,github,notion&theme=light)](https://skillicons.dev)
 
 
-**Work Experience**
+**Work Experience**  
 - 니어브레인 | 연구원(정규직), 소프트웨어 및 BE 개발 (2023.07 - 2024.02)
 - 니어브레인 | 인턴, BE 개발 (2022.09 - 2023.06)
 
